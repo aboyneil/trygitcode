@@ -22,7 +22,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: SafeArea(
         child: Center(
-          child: Text("Hello World"),
+          child: Text("Hello World. Ako si aboy pogi"),
         ),
       ),
     );
